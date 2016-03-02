@@ -1,10 +1,10 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Wojciech Dzikowski
+bio: 'and I write code. I am a full stack web developer at Folium Partners, Inc. and a JavaScript fan afterwards. My other projects include a few Android, iOS and OS X apps as well as augmented reality solutions in OpenCV and Python.'
 
 # main text of home
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://DzikowskiW.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -15,30 +15,30 @@ highlighter: rouge
 analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+#youtube: myyoutube
+#spotify: myspotify
 github: mygithub
-email: myemail@gmail.com
+medium: medium
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
